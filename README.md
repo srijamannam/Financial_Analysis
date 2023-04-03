@@ -1,6 +1,6 @@
 # Financial_Analysis
 
-Analyzed the company’s performance in terms of profitability, liquidity, activity, and solvency in Excel and created charts for better visualization					
+Analyzed 2 company’s performance in terms of profitability, liquidity, activity, and solvency in Excel and created charts for better visualization					
 						
 
 Profitability Ratios
